@@ -1,17 +1,16 @@
 ### Hey, I'm Priyanka Saravanan 👋 
 
-I'm a ML and Web Developer based in India.
+I'm an ML and Web Developer based in India.
 
--  Looking for an entry-level position at a reputable company where I can apply my abilities and further my education in the workplace. able to become proficient in new technologies.
 -  I have a strong interest in data science and real-time problem-solving.
 -  Check out my [LinkedIn](https://www.linkedin.com/in/priyanka-s-93195a253/) Profile to learn more about me.
 
 
 ## 🔭 Current Endeavors 
 
-I'm currently studying my 3rd year in B.E degree in India, where my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently studying 3rd year of my B.E degree in India, where my journey involves both building and learning. Here's what I'm currently focused on:
 
-- I'm engaged in exciting machine learning and web development projects.
+- I'm engaged in exciting machine learning and deep learning projects.
 - I'm exploring different tools and libraries to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
