@@ -1,6 +1,6 @@
 ### Hey, I'm Priyanka Saravanan 👋 
 
-I'm an ML and Web Developer based in India.
+I'm an ML and AI Engineer based in India.
 
 -  I have a strong interest in data science and real-time problem-solving.
 -  Check out my [LinkedIn](https://www.linkedin.com/in/priyanka-s-93195a253/) Profile to learn more about me.
