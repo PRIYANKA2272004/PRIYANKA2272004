@@ -8,11 +8,13 @@ I'm an ML and AI Engineer based in India.
 
 ## 🔭 Current Endeavors 
 
-I'm currently studying 4th year of my B.E degree in India, where my journey involves both building and learning. Here's what I'm currently focused on:
+I completed my B.E degree in India in 2025, where my journey involved both building and learning.
 
-- I'm engaged in exciting machine learning and deep learning projects.
-- I'm exploring different tools and libraries to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+I worked on exciting machine learning and deep learning projects.
+
+I explored different tools and libraries to enhance my skill set.
+
+I stayed driven and consistent, always eager to learn and grow in the tech world.
 
 ### 🧰 Languages and Tools
 
